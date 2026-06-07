@@ -1,0 +1,24 @@
+sources:
+  - name: Puthiyathalaimurai
+    url: https://www.puthiyathalaimurai.com/tamilnadu
+    language: ta
+    region: tamil_nadu
+    category: general
+    fetch_method: gofeed
+    verified: true
+
+  - name: The Hindu Tamil Nadu
+    url: https://www.thehindu.com/news/national/tamil-nadu/feeder/default.rss
+    language: en
+    region: tamil_nadu
+    category: general
+    fetch_method: gofeed
+    verified: true
+
+  - name: Dinamalar
+    url: https://www.dinamalar.com/news/tamil-nadu-news
+    language: ta
+    region: tamil_nadu
+    category: general
+    fetch_method: scrape
+    verified: true
